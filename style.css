@@ -1,7 +1,7 @@
 h3 {
     font-size:35px !important; 
 }
-.btn-primary:hover {
+.btn-info:hover {
     background-color : rgb(255, 0, 128);
 }
 canvas {
